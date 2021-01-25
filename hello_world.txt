@@ -1,3 +1,0 @@
-print(hello world)
-
-dev kA basdd
